@@ -1,0 +1,3 @@
+Leche, 5000, 10, Leche entera
+Arroz, 4000, 20, Arroz blanco
+Azúcar, 3000, 15, Azúcar granulada
